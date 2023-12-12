@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\princ\OneDrive\Escritorio\Youtube\Videos\Prueba Tecnica en C++ - Palindromos\Prueba Tecnica - Palindromos\Prueba Tecnica - Palindromos\Main.cpp(9,13): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\princ\OneDrive\Escritorio\Youtube\Videos\Prueba Tecnica en C++ - Palindromos\Prueba Tecnica - Palindromos\Prueba Tecnica - Palindromos\Main.cpp(19,13): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Prueba Tecnica - Palindromos.vcxproj -> C:\Users\princ\OneDrive\Escritorio\Youtube\Videos\Prueba Tecnica en C++ - Palindromos\Prueba Tecnica - Palindromos\x64\Debug\Prueba Tecnica - Palindromos.exe
